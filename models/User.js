@@ -1,12 +1,12 @@
-const { schema, model } = require("mongoose");
+const { Schema, model } = require("mongoose");
 
-const userschema = new schema(
+const userschema = new Schema(
   {
     username: {
       type: String,
       required: true,
       unique: true,
-      //    trim: true
+      trim: true,
     },
     email: {
       type: String,
@@ -16,13 +16,13 @@ const userschema = new schema(
     },
     thoughts: [
       {
-        type: schema.Types.ObjectId,
+        type: Schema.Types.ObjectId,
         ref: "Thought",
       },
     ],
     friends: [
       {
-        type: schema.Types.ObjectId,
+        type: Schema.Types.ObjectId,
         ref: "User",
       },
     ],
