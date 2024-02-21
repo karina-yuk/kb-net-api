@@ -71,8 +71,16 @@ Sample image of the application shown :
 <img src="assets/images/Remove a friend.JPG" >
 
 Click on the link to view a video demonstration of the application:
+https://drive.google.com/file/d/1U7mJzgmRA9yhNVK-L4quHPUaLz15Etct/view?usp=sharing
 
 ## Reference
+
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
+- https://mongoosejs.com/docs/guide.html
+- https://expressjs.com/en/guide/using-middleware.html
+- https://www.mongodb.com/
+- https://www.npmjs.com/package/mongoose
+- https://www.npmjs.com/package/express
 
 ## License
 
