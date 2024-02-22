@@ -71,7 +71,7 @@ Sample image of the application shown :
 <img src="assets/images/Remove a friend.JPG" >
 
 Click on the link to view a video demonstration of the application:
-https://drive.google.com/file/d/1U7mJzgmRA9yhNVK-L4quHPUaLz15Etct/view?usp=sharing
+https://drive.google.com/file/d/1kCS1ZvA9hj056h-o5EOSNsiw0AZIrZsj/view?usp=sharing
 
 ## Reference
 
